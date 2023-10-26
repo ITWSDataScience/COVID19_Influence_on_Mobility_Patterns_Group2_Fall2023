@@ -1,0 +1,1 @@
+This directory contains reports, visualizations and graphs.
